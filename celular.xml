@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/IPRon/Desktop/SEMESTRE/9no/Servicios web/Practica5__A170106/celular.xsl"?>
+<celulares>
+<celular>
+<marca>Samsung</marca>
+<modelo>A30 4G</modelo>
+<capacidad>64 GB</capacidad>
+</celular>
+<celular>
+<marca>Huawei</marca>
+<modelo>P50 PRO</modelo>
+<capacidad>256 GB</capacidad>
+</celular>
+<celular>
+<marca>iPhone</marca>
+<modelo>XR</modelo>
+<capacidad>128 GB</capacidad>
+</celular>
+</celulares>
